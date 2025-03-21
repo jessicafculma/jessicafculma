@@ -28,6 +28,5 @@ Impacto: Mejoró la distribución de IED con mayor necesidad para la distribuci�
 ## Contacto
 
 📧 Email: jessicafrineth@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/jessicafculma      
-🌐 Portafolio completo: [Enlace a página web o repositorio]
+💼 LinkedIn: https://www.linkedin.com/in/jessicafculma   
 
