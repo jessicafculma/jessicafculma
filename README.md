@@ -1,4 +1,4 @@
--# Hola, soy Jessica! 👋
+# Hola, soy Jessica! 👋
 
 Matemática y Analista de datos con experiencia en transformar datos complejos en información estratégica por medio de tableros interactivos, diseñados para impulsar la toma de decisiones en diversos sectores económicos.
 # Portafolio
