@@ -25,6 +25,12 @@ Creación de un dashboard para evaluar la asignación de IED y estrategias de in
 Herramientas utilizadas: Power BI, R, análisis de datos.         
 Impacto: Mejoró la distribución de IED con mayor necesidad para la distribución de estrategias.
 
+📊 **Informe de Ventas de una Empresa X**
+
+Desarrollo de un tablero de control para analizar el rendimiento de las ventas de la empresa X - sector comercial.     
+Herramientas utilizadas: Tableau, Excel.       
+Impacto: Facilitó la identificación de factores claves de la rentabilidad de las ventas en la empresa X.
+
 ## Contacto
 
 📧 Email: jessicafrineth@gmail.com  
