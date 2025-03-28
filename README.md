@@ -31,6 +31,23 @@ Desarrollo de un tablero de control para analizar el rendimiento de las ventas d
 Herramientas utilizadas: Tableau, Excel.       
 Impacto: Facilitó la identificación de factores claves de la rentabilidad de las ventas en la empresa X.
 
+## HERRAMIENTAS Y HABILIDADES
+
+**Técnicas:**
+
+- Power BI (DAX y modelado de datos)
+- SQL (Consultas y gestión de bases de datos)
+- Python (Análisis y visualización de datos)
+- R y SPSS (Analisis, modelado estadístico y visualizacion de datos)
+- Tableau (Visualización de datos y modelado de datos)
+- Excel Avanzado
+- Office 
+
+**Blandas:**
+- Pensamiento analítico y resolución de problemas
+- Liderazgo y trabajo en equipo
+- Comunicación efectiva
+
 ## Contacto
 
 📧 Email: jessicafrineth@gmail.com  
